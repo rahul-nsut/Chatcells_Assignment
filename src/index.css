@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hometag{
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+
